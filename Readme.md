@@ -15,8 +15,8 @@
 - 🧠 Believer in **continuous learning** and knowledge sharing with the security community.
 
 - 🌐 Let's Connect:  
-[![Linkedin Badge](https://img.shields.io/badge/-Shivam_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivam-gupta-055921248/)](https://www.linkedin.com/in/shivam-gupta-055921248/)  
-[![Gmail Badge](https://img.shields.io/badge/-shivampilot2004@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shivampilot2004@gmail.com)](mailto:shivampilot2004@gmail.com)  
+[![Linkedin Badge](https://img.shields.io/badge/-MD%20Nafish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/md-nafish/)](https://www.linkedin.com/in/md-nafish/)  
+[![Gmail Badge](https://img.shields.io/badge/-md.nafish0007@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:md.nafish0007@gmail.com)](mailto:md.nafish0007@gmail.com) 
 
 ---
 
