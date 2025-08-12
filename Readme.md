@@ -5,7 +5,7 @@
 ### Hi there, I am Md Nafish 👋🔐
 
 # 💫 About Me:
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzY3dHlxbHFlMGU4MWtscnM1aGgybjc2bjNxbWp5dDRua2d2ejB1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" alt="Cybersecurity GIF" width="250" height="250">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YTN1eXF6eHlreWRyMzE2dDk2bWNqeGh0ZDUxbjg2OXg2czR1a3BrcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tefoK7heN3Y4V36BT2/giphy.gif" alt="Cybersecurity GIF" width="250" height="250">
 
 - 🛡 **Cybersecurity Enthusiast & Ethical Hacker** passionate about securing systems, networks, and applications.  
 - 🔍 Exploring **Penetration Testing**, **Threat Intelligence**, **Incident Response**, and **Cloud Security**.  
