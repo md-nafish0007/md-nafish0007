@@ -2,17 +2,17 @@
   <img src="https://komarev.com/ghpvc/?username=SGCODEX&color=green" alt="SGCODEX" /> 
 </p>
 
-### Hi there, I am Md Nafish 👋🔐
+### Hi there, I am Md Nafish 
 
-# 💫 About Me:
+#  About Me:
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YTN1eXF6eHlreWRyMzE2dDk2bWNqeGh0ZDUxbjg2OXg2czR1a3BrcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tefoK7heN3Y4V36BT2/giphy.gif" alt="Cybersecurity GIF" width="250" height="250">
 
-- 🛡 **Cybersecurity Enthusiast & Ethical Hacker** passionate about securing systems, networks, and applications.  
-- 🔍 Exploring **Penetration Testing**, **Threat Intelligence**, **Incident Response**, and **Cloud Security**.  
-- 🤖 Strong foundation in **Python automation**, **Security Scripting**, and **Vulnerability Assessment**.  
-- 📚 Currently learning **Malware Analysis** & **Reverse Engineering** to stay ahead of evolving threats.  
-- 💪 Fitness-oriented and disciplined, applying the same mindset to digital defense.  
-- 🧠 Believer in **continuous learning** and knowledge sharing with the security community.
+-  **Cybersecurity Enthusiast & Ethical Hacker** passionate about securing systems, networks, and applications.  
+-  Exploring **Penetration Testing**, **Threat Intelligence**, **Incident Response**, and **Cloud Security**.  
+-  Strong foundation in **Python automation**, **Security Scripting**, and **Vulnerability Assessment**.  
+-  Currently learning **Malware Analysis** & **Reverse Engineering** to stay ahead of evolving threats.  
+-  Fitness-oriented and disciplined, applying the same mindset to digital defense.  
+-  Believer in **continuous learning** and knowledge sharing with the security community.
 
 - 🌐 Let's Connect:  
 [![Linkedin Badge](https://img.shields.io/badge/-MD%20Nafish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/md-nafish/)](https://www.linkedin.com/in/md-nafish/)  
@@ -20,7 +20,7 @@
 
 ---
 
-# 🛠 Cybersecurity Tech Stack:
+# My Tech Stack:
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -38,7 +38,7 @@
 
 ---
 
-# 📊 Stats:
+# Stats:
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=md-nafish0007&theme=radical&show_icons=true&count_private=true" alt="GitHub Stats" width="500"/>
     <img src="https://tryhackme-badges.s3.amazonaws.com/XxMDNxX.png" alt="Your Image Badge" width="500"/>
@@ -47,5 +47,5 @@
 ---
 
 <div align="center">
-    <h3 align="center">⭐ : If you found my work helpful, drop a star on my repositories! Thank you! 🔐</h3>
+    <h3 align="center">If you found my work helpful, drop a star on my repositories! Thank you! </h3>
 </div>
