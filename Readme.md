@@ -16,8 +16,6 @@
 
 - 🌐 Let's Connect:  
 [![Linkedin Badge](https://img.shields.io/badge/-MD%20Nafish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/md-nafish/)](https://www.linkedin.com/in/md-nafish/)  
-[![Gmail Badge](https://img.shields.io/badge/-md.nafish0007@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:md.nafish0007@gmail.com)](mailto:md.nafish0007@gmail.com) 
-
 ---
 
 # My Tech Stack:
